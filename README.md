@@ -155,14 +155,14 @@ I'm planing to use more images to make the model more robust, in particular the 
 
 ## Computer Vision Outputs
 
-### [Project Video](./videos/project_video.mp4)
-### [Challenge Video](./videos/challenge_video.mp4)
+### [Project Video](./project_video.mp4)
+### [Challenge Video](./challenge_video.mp4)
 
 
 ## SegNet Outputs
 
-### [Project Video](./videos/project_video_SEG.mp4)
-### [Challenge Video](./videos/challenge_video_SEG.mp4)
+### [Project Video](./project_video_SEG.mp4)
+### [Challenge Video](./challenge_video_SEG.mp4)
 
 ## Conclusion 
 
